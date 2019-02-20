@@ -44,4 +44,5 @@
 &nbsp;
 
 ![Bug_0001 Screenshot](Bug_0001_Screenshot.png)
+
 _Pic.1 Bug_0001_Screenshot_
