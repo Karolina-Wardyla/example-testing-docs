@@ -4,19 +4,19 @@
 
 **Project ID:** 0001
 
-**Project Name:** Mercury Tours
+**Project name:** Mercury Tours
 
-**System's Version:** 011003-1.01-058
+**System's version:** 011003-1.01-058
 
-**Date of Release:** 30/06/2019
+**Date of release:** 30/06/2019
 
 **Author of Report:** Karolina Wardyla
 
-**Date of Test Scenario (TS_MT_001) Execution:** 11/02/2019
+**Date of Test Scenario (TS_MT_SignOn_001) execution:** 11/02/2019
 
-**Test Scenario TS_MT_001 inludes Test Cases:** TC_MT_SignOn_001 to TC_MT_SignOn_004
+**Test Scenario TS_MT_SignOn_001 inludes Test Cases:** TC_MT_SignOn_001 to TC_MT_SignOn_004
 
-**Date of Report Creation:** 12/02/2019
+**Date of Report creation:** 12/02/2019
 
 ## *Testing Scope:*
 
@@ -26,7 +26,7 @@ Sign-On module
 
 **Application URL:** http://newtours.demoaut.com/mercurywelcome.php
 
-**Operating System:** Windows 7 Professional
+**Operating system:** Windows 7 Professional
 
 **Browser:** Opera 58.0.3135.53
 

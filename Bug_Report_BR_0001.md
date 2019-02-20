@@ -2,7 +2,7 @@
 
 ## *Bug details:*
 
-**System's version:** v. 011003-1.01-058
+**System's version:** 011003-1.01-058
 
 **Area affected:** Sign-On module
 
