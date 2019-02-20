@@ -34,7 +34,18 @@ Sign-On module
 
 ## *Conclusions:*
 
-**_Tab.2 Conclusion of test cases planned and executed_**
+**_Tab.2 Results of executed test cases_**
+
+| Test Case ID | Actual Result | Status | Executed By | Executed Date | Comments (if any) |
+| --- | --- | --- | --- | --- | --- |
+| TC_MT_SignOn_001 | Successful sign-on. | Pass | Tester_K.W. | 11/02/2019 | No comments. |
+| TC_MT_SignOn_002 | 1. User is not able to sign-on (correct). <br/> 2. No message is displayed (incorrect). | Fail | Tester_K.W. | 11/02/2019 | "Invalid user name/password" message should be implemented. See BUG REPORT (BR_0001) |
+| TC_MT_SignOn_003 | 1. User is not able to sign-on (correct). <br/> 2. No message is displayed (incorrect). | Fail | Tester_K.W. | 11/02/2019 | "Invalid user name/password" message should be implemented. See BUG REPORT (BR_0001) |
+| TC_MT_SignOn_004 | 1. User is not able to sign-on (correct). <br/> 2. No message is displayed (incorrect). | Fail | Tester_K.W. | 11/02/2019 | "Invalid user name/password" message should be implemented. See BUG REPORT (BR_0001) |
+
+&nbsp;
+
+**_Tab.3 Conclusion of test cases planned and executed_**
 
 | Test Cases planned | Test Cases executed | TCs passed | TCs failed |
 |:------------------:|:-------------------:|:----------:|:----------:|
